@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/images/adrotator1.jpg</ImageUrl>
+    <NavigateUrl>wardrobe.aspx</NavigateUrl>
+    <AlternateText>Wardrobe Section</AlternateText>
+    <Impressions>5</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/adrotator2.jpg</ImageUrl>
+    <NavigateUrl>grooming.aspx</NavigateUrl>
+    <AlternateText>Grooming Section</AlternateText>
+    <Impressions>5</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/adrotator3.jpg</ImageUrl>
+    <NavigateUrl>wardrobe.aspx</NavigateUrl>
+    <AlternateText>Training</AlternateText>
+    <Impressions>5</Impressions>
+  </Ad>
+</Advertisements>
